@@ -13,3 +13,5 @@ Error saving credentials: error storing credentials - err: docker-credential-osx
 ```sh
 brew install docker-credential-helper
 ```
+
+[参考](https://github.com/docker/for-mac/issues/2131)
